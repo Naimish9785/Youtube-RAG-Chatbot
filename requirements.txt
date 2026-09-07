@@ -1,0 +1,6 @@
+youtube-transcript-api
+langchain-community
+faiss-cpu
+langchain-ollama
+langchain-chroma
+langchain-text-splitters
