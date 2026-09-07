@@ -151,17 +151,9 @@ Load Existing FAISS Index
 
 This significantly reduces startup time.
 
-## Example Questions
-
-* What is the main topic of this video?
-* Summarize the video in 5 points.
-* What tools are discussed?
-* Explain the retrieval process.
-* What are the key takeaways?
 
 ## Future Improvements
 
-* Accept full YouTube URLs
 * Stream LLM responses token-by-token
 * Multi-video knowledge base
 * Conversation memory
